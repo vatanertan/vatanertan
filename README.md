@@ -13,7 +13,7 @@ Focused on systems programming, pointer-based data structures, object-oriented s
 | :--- | :--- |
 | **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Verilog](https://img.shields.io/badge/Verilog-2B5B84?style=flat-square) |
 | **Tools & Build** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) `Make` · `Valgrind` · `Icarus Verilog` · `GTKWave` · `JavaFX` · `PyQt5` |
-| **Core Focus** | Dynamic Memory & RAII · Linked Lists & Trees · Recursive Backtracking · Event-Driven Systems · Combinational & Sequential Logic |
+| **Core Focus** | Data Structures (Linked Lists, Stacks, Queues, Trees, Dynamic Matrices) · Manual Memory Management & RAII · Object-Oriented Design · Recursive Backtracking · Event-Driven Systems · Combinational & Sequential Logic |
 
 ---
 
