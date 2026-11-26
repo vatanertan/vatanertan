@@ -1,7 +1,7 @@
 # Vatan Ertan
 
 **Computer Engineering Sophomore @ Hacettepe University** · Ankara, Turkey  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatan-ertan) [![Email](https://img.shields.io/badge/Email-vatanertan1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vatanertan1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatan-ertan) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vatanertan1@gmail.com)
 
 Focused on systems programming, pointer-based data structures, object-oriented software architecture, and digital logic design. I enjoy building deterministic simulation engines, desktop applications, and hardware modules from the ground up.
 
